@@ -1,2 +1,2 @@
-it's a goog idea
+it's a good idea
 and it's another fix
